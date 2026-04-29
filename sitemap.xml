@@ -8,13 +8,13 @@
         <priority>1.0</priority>
         <image:image>
             <image:loc>https://feliperyo.github.io/first-portfolio/assets/perfil/felipe-ryo-fullstack.webp</image:loc>
-            <image:title>Felipe Ryo - Desenvolvedor Full Stack</image:title>
-            <image:caption>Foto profissional de Felipe Ryo, Desenvolvedor Full Stack especializado em React e Node.js</image:caption>
+            <image:title>Rodrigo Silva - Desenvolvedor Full Stack</image:title>
+            <image:caption>Foto profissional de Rodrigo Silva, Desenvolvedor Full Stack especializado em React e Node.js</image:caption>
         </image:image>
         <image:image>
             <image:loc>https://feliperyo.github.io/first-portfolio/assets/curriculo/curriculo-img.jpg</image:loc>
-            <image:title>Currículo Felipe Ryo - Desenvolvedor Full Stack</image:title>
-            <image:caption>Currículo profissional de Felipe Ryo com experiência em JavaScript, React e Node.js</image:caption>
+            <image:title>Currículo Rodrigo Silva - Desenvolvedor Full Stack</image:title>
+            <image:caption>Currículo profissional de Rodrigo Silva com experiência em JavaScript, React e Node.js</image:caption>
         </image:image>
     </url>
 </urlset>
