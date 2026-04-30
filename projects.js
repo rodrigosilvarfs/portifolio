@@ -3,12 +3,12 @@ const projects = {
         { name: "Clothes Shop", tech: "E-commerce Fullstack | React + Node.js + PostgreSQL.", img: "clothes-ecommerce.webp", repo: "https://github.com/feliperyo/clothes-ecommerce", deploy: "https://clothes-ecommerce-umber.vercel.app/" },
         { name: "Design System - RyArt", tech: "Next.js com TypeScript.", img: "design-system-ryart.webp", repo: "https://github.com/feliperyo/ryart-designsystem", deploy: "https://ryart-designsystem.vercel.app/styleguide" },
         { name: "PDRNskin", tech: "HTML, CSS e JavaScript.", img: "pdrnskin.webp", repo: "https://github.com/feliperyo/PDRNskin", deploy: "https://pdrnskin.shop/" },
-        { name: "RyArt Design", tech: "HTML, CSS e JavaScript.", img: "ryart.webp", repo: "https://github.com/feliperyo/ryart-design", deploy: "https://ryart.com.br/" },
         { name: "Nihon Corretora de Seguros", tech: "HTML, CSS e JavaScript.", img: "nihon.webp", repo: "https://github.com/feliperyo/nihon-seguros", deploy: "https://nihoncorretoradeseguros.com.br/" },
         { name: "Renovar Corretora", tech: "HTML, CSS, JavaScript e Responsividade.", img: "renovar-img.webp", repo: null, deploy: "https://www.renovarcorretora.com.br/" },
         { name: "Studio NO-8", tech: "HTML, CSS, JavaScript e Responsividade.", img: "studiono8-img.webp", repo: "https://github.com/feliperyo/studio-no-8", deploy: "https://studiono8.com.br/" },
         { name: "MRA Natação", tech: "HTML, CSS, JavaScript e Responsividade.", img: "mra-img.webp", repo: "https://github.com/feliperyo/mra-swim", deploy: "https://mra-natacao.netlify.app/" },
         { name: "TikShop Loja", tech: "HTML, CSS e JavaScript.", img: "tikshop.webp", repo: "https://github.com/tikshoploja/produtos", deploy: "https://tikshoploja.github.io/produtos/" },
+        // { name: "", tech: "", img: "", repo: "", deploy: "" },
     ],
     modelos: [
         { name: "Yoga", tech: "HTML, CSS e Responsividade.", img: "yoga-img.webp", repo: "https://github.com/feliperyo/yoga", deploy: "https://feliperyo.github.io/yoga/" },
@@ -32,6 +32,7 @@ const projects = {
         { name: "Pet", tech: "HTML, CSS e Responsividade.", img: "pet-img.webp", repo: "https://github.com/feliperyo/cuidamos-do-seu-pet", deploy: "https://feliperyo.github.io/cuidamos-do-seu-pet/" },
         { name: "Via Móvel", tech: "HTML, CSS e Responsividade.", img: "via-movel-img.webp", repo: "https://github.com/feliperyo/via-movel", deploy: "https://feliperyo.github.io/via-movel/" },
         { name: "Ampla Cobertura", tech: "HTML, CSS e Responsividade.", img: "ampla-cobertura-img.webp", repo: "https://github.com/feliperyo/ampla-cobertura", deploy: "https://feliperyo.github.io/ampla-cobertura/" },
+        // { name: "", tech: "", img: "", repo: "", deploy: "" },
     ],
     interativos: [
         { name: "Texto To Voice", tech: "HTML, CSS e JavaScript.", img: "text.webp", repo: "https://github.com/feliperyo/text-to-voice", deploy: "https://feliperyo.github.io/text-to-voice/" },
@@ -47,6 +48,7 @@ const projects = {
         { name: "Joken-Pô", tech: "HTML, CSS, JavaScript e Responsividade.", img: "joken-po-img.webp", repo: "https://github.com/feliperyo/joken-po", deploy: "https://feliperyo.github.io/joken-po/" },
         { name: "Calculadora", tech: "HTML, CSS, JavaScript e Responsividade.", img: "calculator-img.webp", repo: "https://github.com/feliperyo/calculadora", deploy: "https://feliperyo.github.io/calculadora/" },
         { name: "Cronômetro", tech: "HTML, CSS, JavaScript e Responsividade.", img: "cronometro-img.webp", repo: "https://github.com/feliperyo/cronometro", deploy: "https://feliperyo.github.io/cronometro/" },
+        // { name: "", tech: "", img: "", repo: "", deploy: "" },
     ],
 };
 
